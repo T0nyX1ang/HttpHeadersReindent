@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "HTTP Headers Reindent: reindent selection to Python dict",
+		"command": "http_headers_reindent"
+	}
+]
